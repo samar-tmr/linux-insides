@@ -1,4 +1,5 @@
 Thank you to all contributors:
+------------------------------
 
 * [Akash Shende](https://github.com/akash0x53)
 * [Jakub Kramarz](https://github.com/jkramarz)
@@ -13,3 +14,24 @@ Thank you to all contributors:
 * [andars](https://github.com/andars)
 * [Alexandru Pana](https://github.com/alexpana)
 * [Bogdan Rădulescu](https://github.com/bogdanr)
+* [zil](https://github.com/zil)
+* [codelitt](https://github.com/codelitt)
+* [gulyasm](https://github.com/gulyasm)
+* [alx741](https://github.com/alx741)
+* [Haddayn](https://github.com/Haddayn)
+* [Daniel Campoverde Carrión](https://github.com/alx741)
+* [Guillaume Gomez](https://github.com/GuillaumeGomez)
+* [Leandro Moreira](https://github.com/leandromoreira)
+* [Jonatan Pålsson](https://github.com/jonte)
+* [George Horrell](https://github.com/georgehorrell)
+* [Ciro Santilli](https://github.com/cirosantilli)
+* [Kevin Soules](https://github.com/eax64)
+* [Fabio Pozzi](https://github.com/fabiopozzi)
+* [Kevin Swinton](https://github.com/kevinjswinton)
+* [Leandro Moreira](https://github.com/leandromoreira)
+* [LYF610400210](https://github.com/LYF610400210)
+* [Cam Cope](https://github.com/ccope)
+* [Miquel Sabaté Solà](https://github.com/mssola)
+* [Michael Aquilina](https://github.com/MichaelAquilina)
+* [Gabriel Sullice](https://github.com/gabesullice)
+
